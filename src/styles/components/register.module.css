@@ -1,0 +1,25 @@
+.formBox{
+    max-width: 400px;
+    width: 90%;;
+    margin: 20px auto;
+    box-shadow: 0 0 5px #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.fieldWrap{
+    margin: 10px auto;
+}
+.fieldWrap label{
+    display: block;
+    margin-bottom: 5px;
+}
+.errorList{
+    list-style: none;
+}
+.errorFormField{
+    border: 1px solid red;
+}
+.errorMessage{
+    color : red
+}
